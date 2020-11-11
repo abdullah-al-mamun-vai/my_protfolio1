@@ -1,0 +1,267 @@
+/* medium layout scrren:1280px */
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+.services-area .sr-boxes .sr-box {
+    height: 260px;
+}
+.project .boxp p {
+    font-size: 14px;
+}
+}
+/* tablet layout screen: 768px */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.bg-design {
+    height: 57%;
+    width: 100%;
+}
+.menu-bar .menu-item .nav-area ul li a {
+    padding: 10px 10px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.services-area .sr-boxes .sr-box {
+    width: 100%;
+    height: 200px;
+}
+.mk-title h2 {
+    padding: 30px;
+}
+    header .header-title h2 {
+    font-size: 30px;
+}
+header .header-title .text-animi .name {
+    font-size: 22px;
+}
+header .header-title .text-animi p {
+    font-size: 14px;
+}
+header .header-title .head-btn {
+    font-size: 17px;
+}
+.services-area .sr-boxes .sr-box i {
+    font-size: 40px;
+}
+.services-area .sr-boxes .sr-box h2 {
+    font-size: 15px;
+}
+.services-area .sr-boxes .sr-box p {
+    font-size: 13px;
+}
+.resume-title h2 {
+    font-size: 35px;
+}
+.resume-title p {
+    font-size: 22px;
+}
+.r-box {
+    height: 230px;
+}
+.r-box h2 {
+    font-size: 22px;
+}
+.r-box p {
+    color: #bbce4;
+    width: 100%;
+}
+}
+/* mobile layout screen */
+@media only screen and (min-width: 540px) and (max-width: 767px){
+	.bg-design {
+    height: 59%;
+    width: 100%;
+}
+.slicknav_menu{
+	display: block;
+}
+.menu-bar {
+    display: none;
+}
+.input-area input {
+    width: 100%;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.textar {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.input-area input[type='submit'] {
+    font-size: 16px;
+}
+
+.contact-title h2 {
+    font-size: 35px;
+}
+.contact-title p {
+    font-size: 24px;
+}
+.mk-title h2 {
+    padding: 30px 0;
+}
+	.resume-title h2 {
+    font-size: 30px;
+}
+.resume-title p {
+    font-size: 20px;
+}
+.r-box h2 {
+    font-size: 20px;
+}
+.r-box p {
+    width: 100%;
+    font-size: 15px;
+}
+.r-box {
+    padding: 10px;
+    border: 1pxsolid;
+    height: 235px;
+}
+header .header-title .text-animi .name {
+    font-size: 20px;
+}
+header .header-title h2 {
+    font-size: 26px;
+}
+header .header-title .text-animi p {
+    font-size: 11px;
+}
+.services-area .sr-boxes .sr-box {
+    height: 180px;
+}
+.services-area .sr-boxes .sr-box i {
+    font-size: 30px;
+}
+.services-area .sr-boxes .sr-box h2 {
+    font-size: 14px;
+}
+.services-area .sr-boxes .sr-box p {
+    font-size: 13px;
+}
+.box1{
+    text-align: center;
+}
+.skill-area .skill-title h2 {
+    font-size: 30px;
+}
+.project .project-title h2 {
+    font-size: 29px;
+    line-height: 15px;
+}
+.project .boxp p {
+    font-size: 14px;
+}
+.project .boxp h2 {
+    font-size: 21px;
+}
+.my_image {
+    width: 150px;
+    height: 150px;
+    /* margin: auto; */
+}
+}
+/* wide mobile layout screen: 480px */
+@media only screen and (max-width: 539px) {
+		.bg-design {
+    height: 59%;
+    width: 100%;
+}
+.menu-bar {
+    display: none;
+}
+.slicknav_menu{
+	display: block;
+}
+.input-area input {
+    width: 100%;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.textar {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.input-area input[type='submit'] {
+    font-size: 16px;
+}
+
+.contact-title h2 {
+    font-size: 30px;
+}
+.contact-title p {
+    font-size: 20px;
+}
+.mk-title h2 {
+    font-size: 30px;
+    padding: 30px 0;
+}
+	.resume-title p {
+    font-size: 20px;
+}
+.r-box h2 {
+    font-size: 22px;
+}
+.r-box p {
+    width: 100%;
+}
+.resume-title h2 {
+    font-size: 25px;
+}
+header .header-title h2 {
+    font-size: 25px;
+}
+header .header-title .head-btn {
+    padding: 10px 30px;
+    font-size: 18px;
+}
+header .header-title .text-animi p {
+    font-size: 13px;
+    letter-spacing: 3px;
+}
+
+header .header-title .text-animi .name {
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+.description-area {
+    padding: 20px;
+}
+.services-area .services-title h2 {
+    font-size: 25px;
+}
+.services-area .services-title p {
+    font-size: 17px;
+}
+
+.services-area .sr-boxes .sr-box i {
+    font-size: 40px;
+}
+.services-area .sr-boxes .sr-box h2 {
+    font-size: 17px;
+}
+.services-area .sr-boxes .sr-box p {
+    color: #bdbce4;
+    font-size: 15px;
+}
+.skill-area .skill-title h2 {
+    font-size: 24px;
+}
+.box1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.pie-value {
+    font-size: 40px;
+}
+.project .project-title h2 {
+    font-size: 30px;
+}
+.project .boxp h2 {
+    font-size: 20px;
+}
+.project .boxp p {
+    font-size: 14px;
+}
+button.material-scrolltop.reveal {
+    width: 50px;
+    height: 50px;
+}
+}
